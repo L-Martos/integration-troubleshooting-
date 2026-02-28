@@ -7,6 +7,11 @@ This project demonstrates structured problem investigation, validation workflows
 ---
 
 ## Purpose
+---
+
+## Troubleshooting Workflow
+
+![Integration Workflow](workflow.png)
 
 When integrations fail, teams often troubleshoot inconsistently.  
 This checklist provides a repeatable process to:
