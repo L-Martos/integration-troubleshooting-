@@ -1,5 +1,18 @@
 # Integration Troubleshooting Checklist
 
+A structured troubleshooting framework used during SaaS implementations and system integrations to quickly identify configuration issues, API failures, and data mismatches.
+
+## Who this is for
+- Implementation Analysts
+- Integration Engineers
+- UAT/Test teams
+- Support & Technical Operations
+
+## Troubleshooting Workflow
+![Workflow](workflow.png)
+
+# Integration Troubleshooting Checklist
+
 A practical troubleshooting framework used during SaaS implementations and system integrations.
 
 This project demonstrates structured problem investigation, validation workflows, and reproducible issue triage — skills commonly used in implementation, onboarding, and technical analyst roles.
